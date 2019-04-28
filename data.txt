@@ -1,4 +1,3 @@
 Name: Jose De la Cruz
 Age: 26
-Favorite Color: Blue
-Iron Hack
+Favorite Color: Yellow
